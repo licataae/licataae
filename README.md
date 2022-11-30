@@ -1,9 +1,6 @@
 ### Hi! I'm Abigail. 👋
 
-<!--
-**licataae/licataae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-I’m a PhD student in neuroscience (LNDS) researching cross-linguistic influence on semantic knowledge in multilingualism. During my bachelor’s in neuroscience (University of Cincinnati) I investigated sound symbolism and cognition-emotion interactions in reading. I completed my master’s degree in neuro-cognitive psychology in Munich, Germany (LMU) where I examined language and cognitive performance alongside PET imaging in patients with primary progressive aphasia. After my master’s degree, I moved to San Francisco, California (UCSF) to work as a neuroimaging data assistant and to gain knowledge of multimodal imaging techniques for the visualization of neuroanatomical changes related to language dysfunction. **
+I’m a PhD student in neuroscience (Lemanic Neuroscience Doctoral School) researching cross-linguistic influence on semantic knowledge in multilingualism. During my bachelor’s in neuroscience (University of Cincinnati) I investigated sound symbolism and cognition-emotion interactions in reading. I completed my master’s degree in neuro-cognitive psychology in Munich, Germany (LMU) where I examined language and cognitive performance alongside PET imaging in patients with primary progressive aphasia. After my master’s degree, I moved to San Francisco, California (UCSF) to work as a neuroimaging data assistant and to gain knowledge of multimodal imaging techniques for the visualization of neuroanatomical changes related to language dysfunction.
 
 I’m interested in combining multimodal neuroimaging, neuropsychological assessment and advanced statistical techniques to elucidate the neurocognitive correlates of semantic knowledge and control in typically aging multilingual speakers. My ultimate goal in this research is to apply findings in patient populations in order to improve treatment and care for patients with language disorders.
 
