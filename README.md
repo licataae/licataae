@@ -6,6 +6,6 @@ I’m a PhD student in neuroscience (Lemanic Neuroscience Doctoral School) resea
 
 I’m interested in combining multimodal neuroimaging, neuropsychological assessment and multivariate statistical techniques to elucidate the neurocognitive correlates of semantic knowledge and control in multilingual speakers. My ultimate goal in this research is to apply findings in patient populations in order to improve treatment and care for patients with language disorders.
 
-Outside of research I enjoy dancing, swimming, roller-skating, crafting, playing bass and generally trying out anything that interests me! I’m passionate about intersectional feminism, sustainability, and diversity and equity in academia. I believe open source, fair and cross-cultural research in neuroscience is the only way we can achieve an accurate understanding of the brain.
+Outside of research I enjoy dancing, swimming, roller-skating, crafting, playing bass and generally trying out anything that interests me! I’m passionate about intersectional feminism, sustainability, and diversity and equity in academia. I believe open, FAIR and cross-cultural research in neuroscience is the only way we can achieve an accurate understanding of the brain.
 
 You can find my publications on [Google Scholar](https://scholar.google.com/citations?hl=de&tzom=-120&user=UlyJsxkAAAAJ&authuser=1, "Google Scholar"), I'm also active on [Twitter](https://twitter.com/licataae "Twitter") & [LinkedIn](https://www.linkedin.com/in/abigail-licata-456929103 "LinkedIn").
