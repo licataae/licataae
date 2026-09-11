@@ -8,6 +8,20 @@ Outside of research I enjoy dancing, swimming, roller-skating, crafting, playing
 
 You can find my publications on [Google Scholar](https://scholar.google.com/citations?hl=de&tzom=-120&user=UlyJsxkAAAAJ&authuser=1, "Google Scholar"), I'm also active on [Twitter](https://twitter.com/licataae "Twitter") & [LinkedIn](https://www.linkedin.com/in/abigail-licata-456929103 "LinkedIn"). Otherwise, check out my github page [here](https://licataae.github.io/abigail-licata/).
 
-<img width="156" height="150" alt="diamond-reviewer-badge" src="https://github.com/user-attachments/assets/fc8507be-96d3-4541-8b00-5712460c126f" /><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 480" width="100%" height="100%" role="img" aria-label="Diamond Reviewer badge">
-
-[![@licataae's Holopin board](https://holopin.me/licataae)](https://holopin.io/@licataae)
+<table>
+  <tr>
+    <td>
+      <a href="https://holopin.io/@licataae">
+        <img src="https://holopin.me/licataae"
+             width="400"
+             alt="@licataae's Holopin board" />
+      </a>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/fc8507be-96d3-4541-8b00-5712460c126f"
+           width="156"
+           height="150"
+           alt="Diamond Reviewer badge" />
+    </td>
+  </tr>
+</table>
